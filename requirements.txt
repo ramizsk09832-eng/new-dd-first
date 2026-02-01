@@ -1,0 +1,7 @@
+
+Flask==3.1.2
+instaloader==4.15
+requests==2.32.5
+Werkzeug==3.1.5
+yt-dlp==2026.1.31
+gunicorn
